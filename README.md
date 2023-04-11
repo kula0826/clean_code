@@ -46,11 +46,11 @@
    
    
 ### [SOLID Principle](https://ithelp.ithome.com.tw/articles/10252738)
-   S — Single responsibility principle    
-   O — Open closed principle   
-   L — Liskov substitution principle   
-   I — Interface segregation principle   
-   D — Dependency Inversion principle   
+   S — Single responsibility principle(單一職責原則)      
+   O — Open closed principle(開放封閉原則)   
+   L — Liskov substitution principle(Liskov替換原則)   
+   I — Interface segregation principle(介面隔離原則)   
+   D — Dependency Inversion principle(依賴倒置原則)   
 ***   
    
    
