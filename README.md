@@ -36,7 +36,7 @@
    
    
 ### 不自幹沒用的邏輯
- utility一律使用現成工具庫，比如lodash
+ utility一律使用現成工具庫，比如[lodash](https://www.lodashjs.com/)
 *** 
   
     
