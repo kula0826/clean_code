@@ -18,6 +18,20 @@
    
 ### 一律用相對較新的寫法
  比如 callback, promise, async await 就用 async await
+ 
+ 避免 callback hell
+ ```
+ callback(10, function(num1){  //10
+    var x = num1 + 10
+        callback(x, function(num2){ //20
+            var y = num2 + 10
+            callback(y, function(num3){ //30 
+                console.log(num3 + 10) //40 
+                console.log('end of hell')
+            })
+        })
+    })
+  ```
 *** 
    
    
