@@ -41,14 +41,14 @@
    
    
 ### CSS Coding Style
-  樣式層級撰寫排序：排版 > 區塊 > 內容 > 動畫
-  排版樣式: position > top > right > bottom > left > display > flex…
-  區塊樣式: margin > padding > width > height > border > background…
-  內容樣式: font > line-height > color…
-  動畫樣式: transition > animation…
-  命名規範(有意義的命名＋容器範疇)
-  有意義的命名: 基於功能、基於內容   Ex. avatarSection、headerContent、searchIcon、menuList
-  容器範疇: 由大而小、由外而內   Ex. container/wrapper、section、block/content/group、item
+  樣式層級撰寫排序：排版 > 區塊 > 內容 > 動畫  
+  排版樣式: position > top > right > bottom > left > display > flex…  
+  區塊樣式: margin > padding > width > height > border > background…  
+  內容樣式: font > line-height > color…  
+  動畫樣式: transition > animation…  
+  命名規範(有意義的命名＋容器範疇)  
+  有意義的命名: 基於功能、基於內容   Ex. avatarSection、headerContent、searchIcon、menuList  
+  容器範疇: 由大而小、由外而內   Ex. container/wrapper、section、block/content/group、item  
 
   CSS EX：
   ```
