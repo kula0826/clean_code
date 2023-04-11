@@ -40,7 +40,7 @@
 *** 
   
     
-### 編排
+### [編排](https://github.com/javascript-tutorial/zh-hant.javascript.info/blob/master/1-js/03-code-quality/02-coding-style/article.md)
   用同一種縮排風格
 ***  
    
