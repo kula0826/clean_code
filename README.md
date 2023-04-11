@@ -13,18 +13,22 @@
    
 ### 替每個概念(動作/行為)使用一種字詞，並持續使用
  舉例來說，在為不同類別設定取得方法時，fetch、retrieve 和 get 就用同一個字就好
+***
    
    
 ### 一律用相對較新的寫法
  比如 callback, promise, async await 就用 async await
+*** 
    
    
 ### 不自幹沒用的邏輯
  utility一律使用現成工具庫，比如lodash
+*** 
   
     
 ### 編排
   用同一種縮排風格
+***  
    
    
 ### [SOLID Principle](https://ithelp.ithome.com.tw/articles/10252738)
@@ -33,6 +37,7 @@
    L — Liskov substitution principle   
    I — Interface segregation principle   
    D — Dependency Inversion principle   
+***   
    
    
 ### CSS Coding Style
@@ -65,6 +70,7 @@
       transition: 0.3s; 
     }
   ```
+***
    
    
 ### Git flow
@@ -73,6 +79,7 @@
   uat - user acceptance testing (QA)
   feat - feature (需求分支)
   fix - hotfix (爸個分支)   
+***  
     
     
 ### commit message
@@ -84,10 +91,12 @@
   範例：[JIRA單] feat: jira標題
   
   [具體參考Angular的commit規範](https://zj-git-guide.readthedocs.io/zh_CN/latest/message/Angular%E6%8F%90%E4%BA%A4%E4%BF%A1%E6%81%AF%E8%A7%84%E8%8C%83)
+***  
   
    
 ### 不要合併提交
   不要在同一個commit提交多個需求
+***  
    
    
 ### API命名規範
