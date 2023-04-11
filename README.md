@@ -74,11 +74,14 @@
    
    
 ### Git flow
-  master - production (prd)
-  sit - system integration testing (開發環境)
-  uat - user acceptance testing (QA)
-  feat - feature (需求分支)
-  fix - hotfix (爸個分支)   
+  master - production (prd)   
+  sit - system integration testing (開發環境)   
+  uat - user acceptance testing (QA)   
+  feat - feature (需求分支)  
+  fix - hotfix (爸個分支)    
+      
+  * 打tag    
+    git tag prd-20230411-01     
 ***  
     
     
