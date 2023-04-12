@@ -95,6 +95,8 @@
   fix - hotfix (爸個分支)    
       
   * 打tag    
+    git tag v.build_number
+    git tag v0.0.0-<build_number>
     git tag prd-20230411-01     
 ***  
     
