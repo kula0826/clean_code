@@ -88,7 +88,7 @@
    
    
 ### Git flow
-  main - production (prd)   
+  main - production (prd, stable, repo owner)   
   sit - system integration testing (開發環境)   
   uat - user acceptance testing (QA)   
   feat - feature (需求分支)  
